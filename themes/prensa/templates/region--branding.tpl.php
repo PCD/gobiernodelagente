@@ -3,7 +3,7 @@
     <?php if ($linked_logo_img || $site_name || $site_slogan): ?>
     <div class="branding-data clearfix">
       <div class="logo-nayarit">
-        <a href="<?php print url('<front>');?>"><img src="<?php print base_path();?>sites/all/themes/prensa/img/banner_lat.png"/></a>
+        <a href="<?php print url('<front>');?>"><img src="<?php print base_path();?>sites/default/themes/prensa/img/banner_lat.png"/></a>
       </div>
       <?php if ($linked_logo_img): ?>
       <div class="logo-img">
