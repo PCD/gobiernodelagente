@@ -737,3 +737,11 @@ body.page-primer-informe{
 #block-menu-menu-footer-social ul li.first a{
   background: url(../img/twitter.png) no-repeat;
 }
+
+
+
+/** Admin Areas **/
+.page-admin-config .left.clearfix,
+.page-admin-config .right.clearfix{
+  clear: both;
+}
