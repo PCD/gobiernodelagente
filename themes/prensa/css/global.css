@@ -743,5 +743,5 @@ body.page-primer-informe{
 /** Admin Areas **/
 .page-admin-config .left.clearfix,
 .page-admin-config .right.clearfix{
-  clear: both;
+  clear: none;
 }
