@@ -301,6 +301,13 @@ body .grid-12{
 body .container-12 .grid-12 {
   width: 960px;
 }
+.view-mode-carrusel{
+  position: relative;
+}
+.view-mode-carrusel .field-name-body{
+  position: absolute;
+  bottom: 0;
+}
 
 
 /* Styles for Featured New at Bottom*/
