@@ -303,6 +303,12 @@ body .container-12 .grid-12 {
 }
 .view-mode-carrusel{
   position: relative;
+  width: 433px;
+}
+.view-mode-carrusel .field-name-field-image{
+  width: 433px;
+  height: 306px;
+  overflow: hidden;
 }
 .view-mode-carrusel .field-name-body{
   position: absolute;
