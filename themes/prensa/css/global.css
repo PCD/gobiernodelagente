@@ -311,7 +311,7 @@ body .container-12 .grid-12 {
   overflow: hidden;
 }
 .view-mode-carrusel .field-name-field-image img{
-  outline: red solid 1px;
+  outline: #700000 solid 1px;
 }
 .view-mode-carrusel .field-name-body{
   position: absolute;
