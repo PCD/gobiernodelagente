@@ -540,7 +540,6 @@ body .container-12 .grid-12 {
 /* Nodo Page */
 .page-node #block-system-main{
   border: 1px solid #DDD;
-  border-bottom: none;
   padding: 15px 15px 0 15px;
   background: white;
 }
