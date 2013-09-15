@@ -327,6 +327,17 @@ body .container-12 .grid-12 {
   top: 200px;
   z-index: 20;
 }
+#views_slideshow_controls_text_slider-block{
+  position: relative;
+}
+#views_slideshow_controls_text_previous_slider-block{
+  position: absolute;
+  left: 0;
+}
+#views_slideshow_controls_text_next_slider-block{
+  position: absolute;
+  right: 0;
+}
 
 
 /* Styles for Featured New at Bottom*/
