@@ -12,8 +12,8 @@
  */
  
 function prensa_preprocess_page(&$variables){
-  drupal_add_css(drupal_get_path('module', 'jquery_update') . '/replace/ui/themes/base/minified/jquery.ui.theme.min.css');
-  drupal_add_js(drupal_get_path('module', 'jquery_update') . '/replace/ui/ui/minified/jquery.ui.core.min.js');
+  //drupal_add_css(drupal_get_path('module', 'jquery_update') . '/replace/ui/themes/base/minified/jquery.ui.theme.min.css');
+  //drupal_add_js(drupal_get_path('module', 'jquery_update') . '/replace/ui/ui/minified/jquery.ui.core.min.js');
 }
 
 /**

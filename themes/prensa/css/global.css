@@ -137,6 +137,7 @@ h5.title a:hover{
   padding: 0;
 }
 #recent-articles-tabs .tabs-wrapper{
+  clear: both;
   border: solid #e0e0e0 1px;
   border-width: 0 1px 1px 1px;
   background: #f7f7f7;
@@ -146,6 +147,7 @@ h5.title a:hover{
   border-bottom-right-radius: 6px;
   -webkit-border-bottom-left-radius: 6px;
   border-bottom-left-radius: 6px;
+  border-top: 1px solid #e0e0e0;
 }
 #recent-articles-tabs .ui-tabs-anchor{
   text-transform: uppercase;
@@ -186,6 +188,52 @@ h5.title a:hover{
 }
 .h1px{
   height: 1px;
+}
+#recent-articles-tabs .tabs-wrapper .term-tab{
+  display: none;
+}
+
+/* New Stuff */
+#recent-articles-tabs .tabs-wrapper .term-tab.active{
+  display: block;
+}
+#recent-articles-tabs ul, 
+#recent-articles-tabs ul li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#recent-articles-tabs{
+  position: relative;
+  padding-top: 35px;
+}
+#recent-articles-tabs ul{
+  position: absolute;
+  top: 0;
+}
+#recent-articles-tabs ul li{
+  display: block;
+  float: left;
+  position: relative;
+  margin-right: 5px;
+}
+#recent-articles-tabs ul li.last{
+  margin-right: 0;
+}
+#recent-articles-tabs ul li a{
+  display: block;
+  border: #e0e0e0 solid 1px;
+  border-bottom: solid 1px #e0e0e0;
+  background: #f8f8f8;
+  padding: 10px 10px 5px;
+  text-decoration: none;
+  color: #a4a4a4;
+}
+#recent-articles-tabs ul li.active a,
+#recent-articles-tabs ul li a:hover{
+  color: #343434;
+  border-color: #e0e0e0;
+  border-bottom-color: #f8f8f8;
 }
 
 /** Slider CSS **/

@@ -15,12 +15,12 @@
         $count = preg_match_all('/<div class="term-tab" id="([^"]+)">\s*<h3>(.+?)<\/h3>/msi', $all_tabs, $matches);
         foreach($matches[1] as $key => $id):
       ?>
-      <li><a href="#<?php print $id;?>"><?php print $matches[2][$key]?></a></li>
+      <li <?php echo ($key==0)?' class="first active"':($key==(count($matches[1])-1)?' class="last"':'');?>><a href="#<?php print $id;?>"><?php print $matches[2][$key]?></a></li>
       <?php endforeach; ?>
     </ul>
     <div class="tabs-wrapper">
       <?php if ($rows): ?>
-      <div class="term-tab" id="tab-1">
+      <div class="term-tab active" id="tab-1">
         <?php if ($header): ?>
           <?php print $header; ?>
         <?php endif; ?>
