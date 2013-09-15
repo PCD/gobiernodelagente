@@ -71,7 +71,8 @@ h5.title a{
 h5.title a:hover{
   text-decoration: underline;
 }
-#recent-articles-tabs h3{
+#recent-articles-tabs h3,
+#views_slideshow_controls_text_pause_slider-block{
   display: none;
 }
 #recent-articles .view-content{
