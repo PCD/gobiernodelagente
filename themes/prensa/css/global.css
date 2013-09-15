@@ -45,20 +45,6 @@ h3.title a{
 h3.title a:hover{
   text-decoration: underline;
 }
-.flexslider-views-slideshow-main-frame-row h3.title{
-  height: 52px;
-  margin: 0 auto;
-  line-height: 52px;
-}
-.flexslider-views-slideshow-main-frame-row h3.title>span{
-  display: inline-block;
-  line-height: 0;
-  vertical-align: middle;
-}
-.flexslider-views-slideshow-main-frame-row h3.title a{
-  font-size: 22px;
-  line-height: 24px;
-}
 h4.title{
   font-size: 18px;
   font-weight: normal;
@@ -85,8 +71,7 @@ h5.title a{
 h5.title a:hover{
   text-decoration: underline;
 }
-#recent-articles-tabs h3,
-#views_slideshow_controls_text_pause_slider-block{
+#recent-articles-tabs h3{
   display: none;
 }
 #recent-articles .view-content{
@@ -793,3 +778,5 @@ body.page-primer-informe{
 .page-admin-config .right.clearfix{
   clear: none;
 }
+
+
