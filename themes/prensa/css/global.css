@@ -247,10 +247,7 @@ h5.title a:hover{
   width: 25px;
   height: 25px;
   display: block;
-  float: left;
-}
-#views_slideshow_controls_text_previous_slider-block{
-  margin-right: 10px;
+  margin: 0;
 }
 #views_slideshow_controls_text_previous_slider-block a,
 #views_slideshow_controls_text_next_slider-block a{
@@ -262,10 +259,6 @@ h5.title a:hover{
 }
 #views_slideshow_controls_text_next_slider-block a{
   background: url(../img/nextButton.png) no-repeat;
-}
-#views_slideshow_controls_text_slider-block{
-  position: absolute;
-  right: 0;
 }
 .flexslider{
   border: none;
