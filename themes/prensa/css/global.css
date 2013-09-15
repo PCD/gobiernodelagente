@@ -331,6 +331,8 @@ body .container-12 .grid-12 {
   margin: 0;
   position: absolute;
   width: 433px;
+  top: 200px;
+  z-index: 20;
 }
 
 
