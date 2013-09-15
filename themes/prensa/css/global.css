@@ -310,11 +310,17 @@ body .container-12 .grid-12 {
   height: 306px;
   overflow: hidden;
 }
+.view-mode-carrusel .field-name-field-image img{
+  outline: red solid 1px;
+}
 .view-mode-carrusel .field-name-body{
   position: absolute;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(50, 0, 0, 0.7);
   color: white;
+  padding: 10px;
+  font-size: 12px;
+  line-height: 14px;
 }
 
 
