@@ -313,6 +313,8 @@ body .container-12 .grid-12 {
 .view-mode-carrusel .field-name-body{
   position: absolute;
   bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
 }
 
 
