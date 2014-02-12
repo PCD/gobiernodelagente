@@ -817,6 +817,12 @@ body.page-primer-informe{
 }
 
 
-.page-node-4776 .logo-img{
+.page-node-4776 .logo-img a img{
   display: none;
+}
+.page-node-4776 .logo-img a{
+  display: block;
+  width: 321px;
+  height: 26px;
+  background: url(../img/senaldelagente.png) no-repeat;
 }
