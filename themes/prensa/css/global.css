@@ -835,7 +835,8 @@ body.page-primer-informe{
 .page-node-4777 #block-menu-menu-footer,
 .page-node-4777 #block-menu-menu-footer-social,
 .page-node-4777 .toolbar-drawer,
-.page-node-4777 .toolbar-menu{
+.page-node-4777 .toolbar-menu,
+.page-node-4777 .tabs{
   display: none;
 }
 .page-node-4777 .region-content-inner{
