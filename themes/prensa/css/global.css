@@ -826,3 +826,19 @@ body.page-primer-informe{
   height: 26px;
   background: url(../img/senaldelagente.png) no-repeat;
 }
+
+/** Senal de la Gente **/
+.page-node-4777 #region-sidebar-second,
+.page-node-4777 #section-header,
+.page-node-4777 #breadcrumb,
+.page-node-4777 #block-block-6,
+.page-node-4777 #block-menu-menu-footer,
+.page-node-4777 #block-menu-menu-footer-social{
+  display: none;
+}
+.page-node-4777 .region-content-inner{
+  padding-top: 30px;
+}
+.page-node-4777 #zone-content.container-12 .grid-9{
+  width: 100%;
+}
