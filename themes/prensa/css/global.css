@@ -836,8 +836,12 @@ body.page-primer-informe{
 .page-node-4777 #block-menu-menu-footer-social,
 .page-node-4777 .toolbar-drawer,
 .page-node-4777 .toolbar-menu,
-.page-node-4777 .tabs{
+.page-node-4777 .tabs,
+.page-node-4777 h1#page-title{
   display: none;
+}
+.page-node.page-node-4777 .field-name-body{
+  padding-top: 0;
 }
 .page-node-4777 .region-content-inner{
   padding-top: 30px;
