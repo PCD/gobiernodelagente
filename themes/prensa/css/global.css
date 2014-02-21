@@ -846,6 +846,7 @@ body.page-primer-informe{
 .page-node-4777 .region-content-inner{
   padding-top: 30px;
 }
-.page-node-4777 #zone-content.container-12 .grid-9{
-  width: 100%;
+.page-node-4777 #zone-content.container-12 .grid-9,
+.page-node-4777 .container-12{
+  width: 600px;
 }
