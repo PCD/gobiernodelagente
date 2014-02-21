@@ -846,6 +846,11 @@ body.page-primer-informe{
 .page-node-4777 .region-content-inner{
   padding-top: 30px;
 }
+.page-node.page-node-4777 #block-system-main{
+  border: none;
+  margin: 0;
+  background: transparent;
+}
 .page-node-4777 #zone-content.container-12 .grid-9,
 .page-node-4777 .container-12{
   width: 600px;
