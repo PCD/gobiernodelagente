@@ -859,6 +859,9 @@ body.page-primer-informe{
 body.page-node-4777{
   background: white;
   min-width: 600px;
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 .page-node-4777 .page{
   background: white url(../img/senal/sdg-feria-web-white.png) no-repeat center 0;
