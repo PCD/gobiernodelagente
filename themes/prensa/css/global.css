@@ -849,6 +849,7 @@ body.page-primer-informe{
 .page-node.page-node-4777 #block-system-main{
   border: none;
   margin: 0;
+  padding: 0;
   background: transparent;
 }
 .page-node-4777 #zone-content.container-12 .grid-9,
@@ -876,7 +877,7 @@ body.page-primer-informe{
 }
 #social-buttons .fb-like {
   overflow: hidden;
-  width: 74px;
+  width: 75px;
   height: 20px;
 }
 #social-buttons .social-twitter {
