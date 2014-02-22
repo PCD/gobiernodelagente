@@ -871,7 +871,7 @@ body.page-node-4777{
   background: url(../img/senal-header-1bit.png) repeat-x;
 }
 .page-node-4777 #zone-content-wrapper{
-  background: url(../img/senal-header.png) center 0;
+  background: url(../img/senal-header.png) no-repeat center 0;
   padding-top: 104px !important;
 }
 #social-buttons{
