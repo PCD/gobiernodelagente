@@ -855,3 +855,31 @@ body.page-primer-informe{
 .page-node-4777 .container-12{
   width: 600px;
 }
+#social-buttons{
+  float: left;
+  height: 20px;
+  margin-bottom: 15px;
+}
+#social-buttons ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#social-buttons ul li {
+    float: left;
+    padding: 0;
+    margin: 0 10px 0 0;
+    list-style: none;
+}
+#social-buttons ul li.last {
+  margin-right: 0;
+}
+#social-buttons .fb-like {
+  overflow: hidden;
+  width: 74px;
+  height: 20px;
+}
+#social-buttons .social-twitter {
+  width: 67px;
+  overflow: hidden;
+}
