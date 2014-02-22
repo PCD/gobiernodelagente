@@ -858,6 +858,7 @@ body.page-primer-informe{
 }
 body.page-node-4777{
   background: #BE002F;
+  min-width: 600px;
 }
 .page-node-4777 .page{
   background: #BE002F url(../img/senal/sdg-feria-web.png) no-repeat center 0;
