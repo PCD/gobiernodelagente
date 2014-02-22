@@ -869,6 +869,9 @@ body.page-node-4777{
 }
 .page-node-4777 #section-content{
   background: url(../img/senal-header-1bit.png) repeat-x;
+}
+.page-node-4777 #zone-content-wrapper{
+  background: url(../img/senal-header.png) repeat-x center 0;
   padding-top: 104px !important;
 }
 #social-buttons{
