@@ -860,7 +860,12 @@ body.page-node-4777{
   background: #BE002F;
 }
 .page-node-4777 .page{
-  background: #BE002F url(../img/senal/sdg-feria-web.png) no-repeat;
+  background: #BE002F url(../img/senal/sdg-feria-web.png) no-repeat center 0;
+}
+.page-node-4777 #zone-footer-wrapper{
+  padding: 0;
+  height: auto;
+  background: none;
 }
 .page-node-4777 #section-content{
   background: url(../img/senal-header-1bit.png) repeat-x;
