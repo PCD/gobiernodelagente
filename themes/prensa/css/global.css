@@ -874,6 +874,9 @@ body.page-node-4777{
   background: url(../img/senal-header.png) no-repeat center 0;
   padding-top: 104px !important;
 }
+body.page-node-4777 .container-12 .grid-12{
+  width: 600px;
+}
 #social-buttons{
   float: left;
   height: 20px;
