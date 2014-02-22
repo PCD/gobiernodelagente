@@ -856,9 +856,9 @@ body.page-primer-informe{
 .page-node-4777 .container-12{
   width: 600px;
 }
-.page-node-4777 #zone-content{
+.page-node-4777 #section-content{
   background: url(../img/senal-header-1bit.png) repeat-x;
-  padding-top: 120px;
+  padding-top: 0;
 }
 #social-buttons{
   float: left;
