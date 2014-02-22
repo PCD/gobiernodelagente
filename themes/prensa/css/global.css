@@ -856,9 +856,12 @@ body.page-primer-informe{
 .page-node-4777 .container-12{
   width: 600px;
 }
+.page-node-4777 .page{
+  background: #BE002F url(../img/sdg-feria-web.png) 0 104px no-repeat;
+}
 .page-node-4777 #section-content{
   background: url(../img/senal-header-1bit.png) repeat-x;
-  padding-top: 0;
+  padding-top: 120px !important;
 }
 #social-buttons{
   float: left;
