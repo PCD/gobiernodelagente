@@ -828,58 +828,58 @@ body.page-primer-informe{
 }
 
 /** Senal de la Gente **/
-.page-node-4777 #region-sidebar-second,
-.page-node-4777 #section-header,
-.page-node-4777 #breadcrumb,
-.page-node-4777 #block-block-6,
-.page-node-4777 #block-menu-menu-footer,
-.page-node-4777 #block-menu-menu-footer-social,
-.page-node-4777 .toolbar-drawer,
-.page-node-4777 .toolbar-menu,
-.page-node-4777 .tabs,
-.page-node-4777 h1#page-title{
+.page-node-4590 #region-sidebar-second,
+.page-node-4590 #section-header,
+.page-node-4590 #breadcrumb,
+.page-node-4590 #block-block-6,
+.page-node-4590 #block-menu-menu-footer,
+.page-node-4590 #block-menu-menu-footer-social,
+.page-node-4590 .toolbar-drawer,
+.page-node-4590 .toolbar-menu,
+.page-node-4590 .tabs,
+.page-node-4590 h1#page-title{
   display: none;
 }
-.page-node.page-node-4777 .field-name-body{
+.page-node.page-node-4590 .field-name-body{
   padding-top: 0;
 }
-.page-node-4777 .region-content-inner{
+.page-node-4590 .region-content-inner{
   padding-top: 30px;
 }
-.page-node.page-node-4777 #block-system-main{
+.page-node.page-node-4590 #block-system-main{
   border: none;
   margin: 0 0 10px 0;
   padding: 0;
   background: transparent;
 }
-.page-node-4777 #zone-content.container-12 .grid-9,
-.page-node-4777 .container-12{
+.page-node-4590 #zone-content.container-12 .grid-9,
+.page-node-4590 .container-12{
   width: 600px;
 }
-body.page-node-4777{
+body.page-node-4590{
   background: white;
   min-width: 600px;
   position: absolute;
   width: 100%;
   height: 100%;
 }
-.page-node-4777 .page{
+.page-node-4590 .page{
   background: white url(../img/senal/sdg-feria-web-white.png) no-repeat center 0;
   height: 100%;
 }
-.page-node-4777 #zone-footer-wrapper{
+.page-node-4590 #zone-footer-wrapper{
   padding: 0;
   height: auto;
   background: none;
 }
-.page-node-4777 #section-content{
+.page-node-4590 #section-content{
   background: url(../img/senal-header-1bit.png) repeat-x;
 }
-.page-node-4777 #zone-content-wrapper{
+.page-node-4590 #zone-content-wrapper{
   background: url(../img/senal-header-3.jpg) no-repeat center 0;
   padding-top: 106px !important;
 }
-body.page-node-4777 .container-12 .grid-12{
+body.page-node-4590 .container-12 .grid-12{
   width: 600px;
 }
 #social-buttons{
